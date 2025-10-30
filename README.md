@@ -26,3 +26,16 @@
 ```bash
 git clone https://github.com/tlsdnjs31/liberalarts-FE.git
 cd liberalarts-FE
+```
+
+---
+
+## ⚙️ 개발 환경 설정
+
+- Node.js 20 이상
+- 패키지 매니저: pnpm
+- 실행 명령어:
+  ```bash
+  pnpm install
+  pnpm dev
+  ```
